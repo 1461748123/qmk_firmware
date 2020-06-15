@@ -1,0 +1,2 @@
+#define HAL_USE_I2C TRUE
+//#define STM32_I2C_USE_I2C2 TRUE
